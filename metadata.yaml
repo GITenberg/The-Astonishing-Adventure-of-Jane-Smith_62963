@@ -1,0 +1,31 @@
+_repo: The-Astonishing-Adventure-of-Jane-Smith_62963
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wentworth, Patricia
+    aliases:
+    - Turnbull, Dora Amy
+    - Elles, Dora Amy
+    - Dillon, Mrs. G. F.
+    birthdate: 1878
+    deathdate: 1961
+    gutenberg_agent_id: '41726'
+    url: http://www.gutenberg.org/2009/agents/41726
+    wikipedia: https://en.wikipedia.org/wiki/Patricia_Wentworth
+description: ''
+gutenberg_issued: '2020-08-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62963'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cousins -- Fiction'
+- !lcsh 'Adventure stories'
+- !lcsh 'Detective and mystery stories'
+- !lcc 'PR'
+- GITenberg
+title: The Astonishing Adventure of Jane Smith
+url: http://www.gutenberg.org/ebooks/62963
